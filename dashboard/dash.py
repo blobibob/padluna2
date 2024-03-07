@@ -22,7 +22,7 @@ st.sidebar.write("ID Dicoding: clrssluna")
 
 # Link GitHub
 st.sidebar.title("GitHub Repository")
-st.sidebar.write("[Proyek Analisis Data](https://github.com/blobibob/proyek_analisis_data)")
+st.sidebar.write("[Proyek Analisis Data](https://github.com/blobibob/padluna2)")
 
 # Judul dan Konten Utama
 st.title('Proyek Analisis Data')
